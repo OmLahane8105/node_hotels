@@ -1,4 +1,12 @@
 #Ignore node_modules directory
 node_modules/
-
+lodash.js
+fsos.js
+get.js
+convert.js
+function.js
+greeting.txt
+express.js
+notes.js
+.env
 #Other enteries...
